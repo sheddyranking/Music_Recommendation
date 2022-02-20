@@ -8,7 +8,7 @@ But we have to split the data into input and output to enable the model predict 
 # Trainning
 When trainnig your models always remember to feed your models with enough dataset for proper accuracy. in this example 80% was used for training while 20%(0.2) was used for testing.
 
-# Decision Visualization
+# DecisionTree Visualization
 
 Open the [music.recommendation.dot] file in Vscode, install graphviz.dot extension and click preview from the three dotted at top-right corner.#
 
