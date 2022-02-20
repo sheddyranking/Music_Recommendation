@@ -10,4 +10,6 @@ When trainnig your models always remember to feed your models with enough datase
 
 # Decision Visualization
 
-Open the [music.recommendation.dot] file in Vscode, install graphviz.dot extension and click preview from the three dotted at top-right corner.
+Open the [music.recommendation.dot] file in Vscode, install graphviz.dot extension and click preview from the three dotted at top-right corner.#
+
+![Screenshot (104)](https://user-images.githubusercontent.com/42388234/154854930-ff280a11-3c10-470a-8972-a1b9daa79b3b.png)
